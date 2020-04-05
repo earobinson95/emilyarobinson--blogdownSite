@@ -22,11 +22,16 @@ interests:
 - Statistical Communication
 - Data Visualization
 name: Emily A. Robinson
-organizations:
-- name: University of Nebraska - Lincoln
-  url: ""
 role: PhD Student, Statistical Consultant
+organizations:
+- name: Statistics Department, University of Nebraska - Lincoln
+  url: "https://statistics.unl.edu/about-statistics"
+- name: Statistical Cross-disciplinary Collaboration and Consulting Lab (SC3L)
+  url: "https://statistics.unl.edu/help-desk-form"
 social:
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'
@@ -36,9 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/earobinson95
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/emily13robinson
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/emily13robinson
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
