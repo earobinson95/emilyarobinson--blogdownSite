@@ -80,7 +80,7 @@ class:primary
 ## Past Studies & Overarching Themes
 
 - Strayhorn (2012) developed a model for sense of belonging within higher education that is similar to Maslow’s hierarchy of needs. 
-  - See his $\text{Ted}^\text{X}$ talk, "Inalienable Rights: Life, Liberty, and the Pursuit of Belonging: Terrell Strayhorn at TEDxColumbus" at https://www.youtube.com/watch?v=Ak6T9kw0H28 
+  - See his Tedx talk, "Inalienable Rights: Life, Liberty, and the Pursuit of Belonging: Terrell Strayhorn at TEDxColumbus" at https://www.youtube.com/watch?v=Ak6T9kw0H28 
   
 - Astin’s (1991) input-environment-outcome (I-E-O) model: inputs should describe qualities of the student prior to being exposed to the college environment and exposure to the environment is known to precede the assessment of the outcome performance.
 - A students’ sense of belonging declines over the course of an academic year.
@@ -94,7 +94,7 @@ class:primary
 class:primary
 ## Introduction to Visual Inference
 
-1. Data plots $\equiv$ test statistics
+1. Data plots corresponds to test statistics
 
 2. Plots of data generated from a null hypothesis (e.g. bootstrapping) using a lineup.
 3. A lineup contians one "guilty" plot randomly placed among a field of "innocent" or null plots.
@@ -106,7 +106,7 @@ from the plots of null data.
 6.  If the viewer identifies the suspect, it lends statistical significance to the conclusion that the data is not consistent with the null data.
 
 7. Implement study with Amazon Mechanical Turk, a crowd sourcing website.
-8. Using a Binomial Distriution, expect to see the "guilty" plot selected $\frac{1}{\text{Number of Plots}}$ times by random chance.
+8. Using a Binomial Distriution, expect to see the "guilty" plot selected 1/plots times by random chance.
 
 - Think 218 with simulated p-values in Chapters 5 and 6.
 

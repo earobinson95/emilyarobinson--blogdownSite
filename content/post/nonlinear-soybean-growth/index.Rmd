@@ -1,13 +1,16 @@
 ---
 title: "Non-linear Soybean Growth"
 author: "Emily Robinson"
-date: "August 20, 2019"
-output:
-  html_document: default
-  pdf_document: default
-  fig_caption: yes
-  keep_tex: yes
+date: '2019-08-20'
+slug: nonlinear-soybean-growth
+tags:
+  - nonlinear
+featured: no
 header-includes: \usepackage{float}
+image:
+  caption: 'Image credit: [**VectorStock**](https://www.vectorstock.com/royalty-free-vector/ripe-soybean-plant-with-open-pods-and-seeds-vector-23868276)'
+  focal_point: Right
+  preview_only: no
 bibliography: references.bib
 course: STAT 974
 theme: cerulean
