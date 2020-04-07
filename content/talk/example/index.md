@@ -31,8 +31,8 @@ math: true
 summary: Brainstorming and discussing collaboration moving forward for PhD research.
 tags: []
 title: Research Collaboration Planning
-url_code: "https://www.emilyarobinson.com/slides/ResearchCollaboration_Planning/index.rdm"
+url_code: "https://www.emilyarobinson.com/files/slides/ResearchCollaboration_Planning/index.rdm"
 url_pdf: ""
-url_slides: "https://www.emilyarobinson.com/slides/ResearchCollaboration_Planning/index.html#1"
+url_slides: "https://www.emilyarobinson.com/files/slides/ResearchCollaboration_Planning/index.html#1"
 url_video: ""
 ---

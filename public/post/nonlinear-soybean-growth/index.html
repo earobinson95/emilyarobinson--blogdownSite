@@ -234,7 +234,9 @@
   <meta property="twitter:image" content="/post/nonlinear-soybean-growth/featured.jpg"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2019-08-20T00:00:00&#43;00:00">
     
+    <meta property="article:modified_time" content="2019-08-20T00:00:00&#43;00:00">
   
 
   
@@ -266,8 +268,8 @@
     "/post/nonlinear-soybean-growth/featured.jpg"
   ],
   
-  "datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "0001-01-01T00:00:00Z",
+  "datePublished": "2019-08-20T00:00:00Z",
+  "dateModified": "2019-08-20T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -399,7 +401,94 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#skills"><span>Skills</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -505,7 +594,7 @@
     
       
     
-    Jan 1, 0001
+    Aug 20, 2019
   </span>
   
 
@@ -548,7 +637,7 @@
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 716px;">
   <div style="position: relative">
     <img src="/post/nonlinear-soybean-growth/featured_huf8aeeda9d7f198a255a6eb05b91555f0_129302_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
-    
+    <span class="article-header-caption">Image credit: <a href="https://www.vectorstock.com/royalty-free-vector/ripe-soybean-plant-with-open-pods-and-seeds-vector-23868276"><strong>VectorStock</strong></a></span>
   </div>
 </div>
 
@@ -592,7 +681,7 @@
 </tbody>
 </table>
 <div class="figure" style="text-align: center"><span id="fig:dataplot"></span>
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/dataplot-1.png" alt="Visual display of soybean growth by genotype." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/dataplot-1.png" alt="Visual display of soybean growth by genotype." width="480" />
 <p class="caption">
 Figure 1: Visual display of soybean growth by genotype.
 </p>
@@ -704,13 +793,13 @@ W(x;\boldsymbol\theta) = a + \frac{b - a}{1+e^{(c-x)/d}}
 </table>
 <p>Evaluating <code>Model (1)</code>, we can see there are nonconstant variance issues due to the fanning out of residuals as well as the possibility of differing parameters between genotypes.</p>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod1_fit-1.png" alt="Model (1) fit" width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod1_fit-1.png" alt="Model (1) fit" width="480" />
 <p class="caption">
 (#fig:mod1_fit)Model (1) fit
 </p>
 </div>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod1_resid-1.png" alt="Model (1) residuals" width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod1_resid-1.png" alt="Model (1) residuals" width="480" />
 <p class="caption">
 (#fig:mod1_resid)Model (1) residuals
 </p>
@@ -912,14 +1001,14 @@ W(x;\boldsymbol\theta) = \frac{a+ap\cdot Genotype\_P}{1+(b)e^{-(c)x}},
 </tbody>
 </table>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod6_fit-1.png" alt="Model (6) fit." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod6_fit-1.png" alt="Model (6) fit." width="480" />
 <p class="caption">
 (#fig:mod6_fit)Model (6) fit.
 </p>
 </div>
 <p>Evaluating the residuals from <code>Model (6)</code>, there is clear indication of nonconstant variance due to the fanning out of residuals.</p>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod6_resid-1.png" alt="Model (6) residuals." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod6_resid-1.png" alt="Model (6) residuals." width="480" />
 <p class="caption">
 (#fig:mod6_resid)Model (6) residuals.
 </p>
@@ -958,7 +1047,7 @@ W(x;\boldsymbol\theta) = \frac{a+ap\cdot Genotype\_P}{1+(b)e^{-(c)x}},
 </table>
 <p>Observing the studentized residuals produced by assuming nonconstant variance, we still determine there appears to be more going on. One possibility is the variability between plots.</p>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod7_diagnostics-1.png" alt="Model (7) residuals." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod7_diagnostics-1.png" alt="Model (7) residuals." width="480" />
 <p class="caption">
 (#fig:mod7_diagnostics)Model (7) residuals.
 </p>
@@ -1232,6 +1321,12 @@ RUN;</code></pre>
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/nonlinear/">nonlinear</a>
+  
+</div>
 
 
 

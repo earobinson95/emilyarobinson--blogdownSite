@@ -1,17 +1,20 @@
 ---
 title: "Non-linear Soybean Growth"
 author: "Emily Robinson"
-date: "August 20, 2019"
-output:
-  html_document: default
-  pdf_document: default
-  fig_caption: yes
-  keep_tex: yes
+date: '2019-08-20'
+slug: nonlinear-soybean-growth
+tags:
+  - nonlinear
+featured: no
 header-includes: \usepackage{float}
 bibliography: references.bib
 course: STAT 974
 theme: cerulean
 fontsize: 12pt
+image:
+  caption: 'Image credit: [**VectorStock**](https://www.vectorstock.com/royalty-free-vector/ripe-soybean-plant-with-open-pods-and-seeds-vector-23868276)'
+  focal_point: Right
+  preview_only: no
 ---
 
 
@@ -48,7 +51,7 @@ fontsize: 12pt
 </tbody>
 </table>
 <div class="figure" style="text-align: center"><span id="fig:dataplot"></span>
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/dataplot-1.png" alt="Visual display of soybean growth by genotype." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/dataplot-1.png" alt="Visual display of soybean growth by genotype." width="480" />
 <p class="caption">
 Figure 1: Visual display of soybean growth by genotype.
 </p>
@@ -160,13 +163,13 @@ W(x;\boldsymbol\theta) = a + \frac{b - a}{1+e^{(c-x)/d}}
 </table>
 <p>Evaluating <code>Model (1)</code>, we can see there are nonconstant variance issues due to the fanning out of residuals as well as the possibility of differing parameters between genotypes.</p>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod1_fit-1.png" alt="Model (1) fit" width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod1_fit-1.png" alt="Model (1) fit" width="480" />
 <p class="caption">
 (#fig:mod1_fit)Model (1) fit
 </p>
 </div>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod1_resid-1.png" alt="Model (1) residuals" width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod1_resid-1.png" alt="Model (1) residuals" width="480" />
 <p class="caption">
 (#fig:mod1_resid)Model (1) residuals
 </p>
@@ -368,14 +371,14 @@ W(x;\boldsymbol\theta) = \frac{a+ap\cdot Genotype\_P}{1+(b)e^{-(c)x}},
 </tbody>
 </table>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod6_fit-1.png" alt="Model (6) fit." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod6_fit-1.png" alt="Model (6) fit." width="480" />
 <p class="caption">
 (#fig:mod6_fit)Model (6) fit.
 </p>
 </div>
 <p>Evaluating the residuals from <code>Model (6)</code>, there is clear indication of nonconstant variance due to the fanning out of residuals.</p>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod6_resid-1.png" alt="Model (6) residuals." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod6_resid-1.png" alt="Model (6) residuals." width="480" />
 <p class="caption">
 (#fig:mod6_resid)Model (6) residuals.
 </p>
@@ -414,7 +417,7 @@ W(x;\boldsymbol\theta) = \frac{a+ap\cdot Genotype\_P}{1+(b)e^{-(c)x}},
 </table>
 <p>Observing the studentized residuals produced by assuming nonconstant variance, we still determine there appears to be more going on. One possibility is the variability between plots.</p>
 <div class="figure" style="text-align: center">
-<img src="/project/nonlinear-soybean-growth/index_files/figure-html/mod7_diagnostics-1.png" alt="Model (7) residuals." width="480" />
+<img src="/post/nonlinear-soybean-growth/index_files/figure-html/mod7_diagnostics-1.png" alt="Model (7) residuals." width="480" />
 <p class="caption">
 (#fig:mod7_diagnostics)Model (7) residuals.
 </p>

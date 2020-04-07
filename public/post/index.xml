@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Non-linear Soybean Growth</title>
       <link>/post/nonlinear-soybean-growth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/post/nonlinear-soybean-growth/</guid>
       <description>
 
@@ -52,7 +52,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:dataplot&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/project/nonlinear-soybean-growth/index_files/figure-html/dataplot-1.png&#34; alt=&#34;Visual display of soybean growth by genotype.&#34; width=&#34;480&#34; /&gt;
+&lt;img src=&#34;/post/nonlinear-soybean-growth/index_files/figure-html/dataplot-1.png&#34; alt=&#34;Visual display of soybean growth by genotype.&#34; width=&#34;480&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Visual display of soybean growth by genotype.
 &lt;/p&gt;
@@ -164,13 +164,13 @@ W(x;\boldsymbol\theta) = a + \frac{b - a}{1+e^{(c-x)/d}}
 &lt;/table&gt;
 &lt;p&gt;Evaluating &lt;code&gt;Model (1)&lt;/code&gt;, we can see there are nonconstant variance issues due to the fanning out of residuals as well as the possibility of differing parameters between genotypes.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;/project/nonlinear-soybean-growth/index_files/figure-html/mod1_fit-1.png&#34; alt=&#34;Model (1) fit&#34; width=&#34;480&#34; /&gt;
+&lt;img src=&#34;/post/nonlinear-soybean-growth/index_files/figure-html/mod1_fit-1.png&#34; alt=&#34;Model (1) fit&#34; width=&#34;480&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:mod1_fit)Model (1) fit
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;/project/nonlinear-soybean-growth/index_files/figure-html/mod1_resid-1.png&#34; alt=&#34;Model (1) residuals&#34; width=&#34;480&#34; /&gt;
+&lt;img src=&#34;/post/nonlinear-soybean-growth/index_files/figure-html/mod1_resid-1.png&#34; alt=&#34;Model (1) residuals&#34; width=&#34;480&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:mod1_resid)Model (1) residuals
 &lt;/p&gt;
@@ -372,14 +372,14 @@ W(x;\boldsymbol\theta) = \frac{a+ap\cdot Genotype\_P}{1+(b)e^{-(c)x}},
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;/project/nonlinear-soybean-growth/index_files/figure-html/mod6_fit-1.png&#34; alt=&#34;Model (6) fit.&#34; width=&#34;480&#34; /&gt;
+&lt;img src=&#34;/post/nonlinear-soybean-growth/index_files/figure-html/mod6_fit-1.png&#34; alt=&#34;Model (6) fit.&#34; width=&#34;480&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:mod6_fit)Model (6) fit.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Evaluating the residuals from &lt;code&gt;Model (6)&lt;/code&gt;, there is clear indication of nonconstant variance due to the fanning out of residuals.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;/project/nonlinear-soybean-growth/index_files/figure-html/mod6_resid-1.png&#34; alt=&#34;Model (6) residuals.&#34; width=&#34;480&#34; /&gt;
+&lt;img src=&#34;/post/nonlinear-soybean-growth/index_files/figure-html/mod6_resid-1.png&#34; alt=&#34;Model (6) residuals.&#34; width=&#34;480&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:mod6_resid)Model (6) residuals.
 &lt;/p&gt;
@@ -418,7 +418,7 @@ W(x;\boldsymbol\theta) = \frac{a+ap\cdot Genotype\_P}{1+(b)e^{-(c)x}},
 &lt;/table&gt;
 &lt;p&gt;Observing the studentized residuals produced by assuming nonconstant variance, we still determine there appears to be more going on. One possibility is the variability between plots.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;/project/nonlinear-soybean-growth/index_files/figure-html/mod7_diagnostics-1.png&#34; alt=&#34;Model (7) residuals.&#34; width=&#34;480&#34; /&gt;
+&lt;img src=&#34;/post/nonlinear-soybean-growth/index_files/figure-html/mod7_diagnostics-1.png&#34; alt=&#34;Model (7) residuals.&#34; width=&#34;480&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:mod7_diagnostics)Model (7) residuals.
 &lt;/p&gt;
