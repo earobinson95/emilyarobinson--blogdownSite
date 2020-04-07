@@ -18,13 +18,23 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2020-04-06T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-robinson/</loc>
+    <lastmod>2020-04-06T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2020-04-06T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2020-04-06T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,11 +54,6 @@
   
   <url>
     <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -140,6 +145,10 @@
   
   <url>
     <loc>/project/</loc>
+  </url>
+  
+  <url>
+    <loc>/slides/researchcollaboration_planning/</loc>
   </url>
   
 </urlset>

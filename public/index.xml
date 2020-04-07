@@ -55,24 +55,12 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
+      <title>Research Collaboration Planning</title>
       <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2020 13:00:00 +0000</pubDate>
       <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <description>&lt;pre&gt;&lt;code class=&#34;language-{r}&#34;&gt;knitr::include_url(&#39;https://www.emilyarobinson.com/files/ResearchCollaboration_Planning/index.html#1&#39;)
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -1628,6 +1616,139 @@ RUN;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Davidian, Marie. n.d. &lt;em&gt;ST 732 - Spring 2019&lt;/em&gt;. &lt;a href=&#34;https://www4.stat.ncsu.edu/~davidian/st732/notes.html&#34;&gt;https://www4.stat.ncsu.edu/~davidian/st732/notes.html&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Collaboration Planning</title>
+      <link>/slides/researchcollaboration_planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/slides/researchcollaboration_planning/</guid>
+      <description>
+
+
+&lt;p&gt;class:primary
+## Outline&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;CASNR Data: Student Success&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Visual Inference&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Future Thoughts&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Brainstorming &amp;amp; Collaboration Discussion&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Progress Report &amp;amp; Program of Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Moth Flight Data&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Impossible &amp;amp; Insane Idea&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;class:primary
+## P.O.W.E.R Survey&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;P.O.W.E.R Survey (Purpose, Ownership, Wellness, Engagement, Relationships)
+&lt;ul&gt;
+&lt;li&gt;Sent to all UNL Freshman in the fourth week of the Fall 2019 semeseter (1788 responses, 38.3% response rate)&lt;/li&gt;
+&lt;li&gt;11 Binary Questions&lt;/li&gt;
+&lt;li&gt;Outreach to Res Life, Student Inolvement, Big Red Resilience, Office of Academic Success &amp;amp; intercultural Services (OASIS), First-Year Experience and Transition Programs (FYETP), Husker Hub, University Advising&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;.center[
+&lt;img class=&#34;mw&#34; src=&#34;images/POWERsurvey.png&#34; width=&#34;100%&#34; alt=&#34;power survey&#34;/&gt;]
+—
+class:primary
+## Student Demographic Data
+- Academic Management Information System (AMIS Database) [&lt;a href=&#34;https://iea.unl.edu/&#34; class=&#34;uri&#34;&gt;https://iea.unl.edu/&lt;/a&gt;]
+- Snapshot of UNL’s data taken each semeseter (Fall, Spring, Summer)
+- &lt;em&gt;e.g. age, gender, first time freshman, honors, first gen, athlete, scholarship athlete, resident status, full time or part time, college, degree, department, AP credit, ACT test, HS GPA, transfer student, sections enrolled, final GPA, 2nd year college, 3rd year college, degree in number of years, term graduated, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;National Survey of Student Engagement (NSSE) Survey [&lt;a href=&#34;http://nsse.indiana.edu/&#34; class=&#34;uri&#34;&gt;http://nsse.indiana.edu/&lt;/a&gt;]
+&lt;ul&gt;
+&lt;li&gt;Five levels: Level of academic challenge, active and collaborative learning, student-faculty interaction, enriching educational experiences, and supportive campus environment.&lt;/li&gt;
+&lt;li&gt;UNL participated in the NSSE in 2007, 2010, 2011 (Pilot study), 2012 (Pilot study), 2013, 2016 [response rate: 27% for freshman &amp;amp; 23% for seniors), and 2019 [HIP’s, Inclusiveness and Engagement with Cultural Diversity, Association of American Universities Data Exchange - AAUDE] [&lt;a href=&#34;https://www.unl.edu/nsse/&#34; class=&#34;uri&#34;&gt;https://www.unl.edu/nsse/&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;class:primary
+## Introduction to Visual Inference&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Data plots &lt;span class=&#34;math inline&#34;&gt;\(\equiv\)&lt;/span&gt; test statistics&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Plots of data generated from a null hypothesis (e.g. bootstrapping) using a lineup.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A lineup contians one “guilty” plot randomly placed among a field of “innocent” or null plots.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If the null hypothesis is true then the plot of the data will not be distinguishable
+from the plots of null data.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Viewers asked to identify the plot that is the most different.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If the viewer identifies the suspect, it lends statistical significance to the conclusion that the data is not consistent with the null data.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Implement study with Amazon Mechanical Turk, a crowd sourcing website.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Using a Binomial Distriution, expect to see the “guilty” plot selected &lt;span class=&#34;math inline&#34;&gt;\(\frac{1}{\text{Number of Plots}}\)&lt;/span&gt; times by random chance.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Think 218 with simulated p-values in Chapters 5 and 6.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;rightbased-on-hofmann-et-al.-2012&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;.right[&lt;font size=&#34;1&#34;&gt;Based on: Hofmann et al., 2012&lt;/font&gt;]&lt;/h2&gt;
+&lt;p&gt;class:primary
+## Introduction to Visual Inference&lt;/p&gt;
+&lt;p&gt;.center[
+&lt;img class=&#34;mw&#34; src=&#34;images/lineupExample2.png&#34; width=&#34;50%&#34; alt=&#34;exampleLineup&#34;/&gt;]
+.right[&lt;font size=&#34;1&#34;&gt;Image taken from: Buja et al., 2009&lt;/font&gt;]&lt;/p&gt;
+&lt;p&gt;class:primary
+## Introduction to Visual Inference&lt;/p&gt;
+&lt;p&gt;.center[
+&lt;img class=&#34;mw&#34; src=&#34;images/visualInferenceFlowChart.png&#34; width=&#34;75%&#34; alt=&#34;exampleLineup&#34;/&gt;]
+.right[&lt;font size=&#34;1&#34;&gt;Image taken from: Buja et al., 2009&lt;/font&gt;]&lt;/p&gt;
+&lt;p&gt;class:primary
+## Future Thoughts
+- I have found that I enjoy spending my time on:
+- Experimental Design
+- Communicating Statistics (e.g. Consulting and Teaching)
+- Data Science
+- Nonlinear Analysis
+- Structural Equation Modleing (SEM)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Considerations with Sense of Belonging:
+&lt;ul&gt;
+&lt;li&gt;Reliability &amp;amp; validity of survey.&lt;/li&gt;
+&lt;li&gt;The survey is binary.&lt;/li&gt;
+&lt;li&gt;The questions target different aspects of a student’s sense of belonging, can we tie them all together with psychometrics to come up with one measure?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Possible directions:
+&lt;ul&gt;
+&lt;li&gt;Combine visual inference and survey data (item response theroy - IRT).&lt;/li&gt;
+&lt;li&gt;Detecting bias due to missing data (or correcting for non-response rates)&lt;/li&gt;
+&lt;li&gt;Mainstream visual inference into consulting practices.&lt;/li&gt;
+&lt;li&gt;Model evaluation / diagnostics of GLMM, Nonlinear Models, and Nonlinear Mixed models using Visual Inference&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;class:inverse
+# Brainstorming &amp;amp; Collaboration Discussion&lt;/p&gt;
+&lt;p&gt;class:primary
+## Moth Flight Data&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;mw&#34; src=&#34;images/flightPatternPercent.png&#34; width=&#34;100%&#34; alt=&#34;moth flight ggridge plot&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;class:primary
+## Impossible and Insane Idea
+- Blumenstock, J., Cadamuro, G., &amp;amp; On, R. (2015). Predicting poverty and wealth from mobile phone metadata. Science, 350(6264), 1073–1076. &lt;a href=&#34;https://doi.org/10.1126/science.aac4420&#34; class=&#34;uri&#34;&gt;https://doi.org/10.1126/science.aac4420&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accurate and timely estimates of population characteristics are a critical input to social
+and economic research and policy. In industrialized economies, novel sources of data are
+enabling new approaches to demographic profiling, but in developing countries, fewer
+sources of big data exist. We show that &lt;strong&gt;an individual’s past history of mobile phone use can
+be used to infer his or her socioeconomic status&lt;/strong&gt;. Furthermore, we demonstrate that the
+&lt;strong&gt;predicted attributes of millions of individuals can, in turn, accurately reconstruct the
+distribution of wealth of an entire nation or to infer the asset distribution of microregions
+composed of just a few households&lt;/strong&gt;. In resource-constrained environments where censuses
+and household surveys are rare, this approach creates an option for gathering localized
+and timely information at a fraction of the cost of traditional methods.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;class:primary
+## Impossible and Insane Idea&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Amigos for Christ (&lt;a href=&#34;https://amigosforchrist.org/solutions/&#34; class=&#34;uri&#34;&gt;https://amigosforchrist.org/solutions/&lt;/a&gt;)
+.center[
+&lt;img class=&#34;mw&#34; src=&#34;images/AmigosForChrist.png&#34; width=&#34;80%&#34; alt=&#34;moth flight ggridge plot&#34;/&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Research Question: Estimate the number of households in rural Nicaragua without running water.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;They have been collecting data via offline ipads on each community, household, and individuals they have worked with.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Brian Peters, Data Analyst &amp;amp; Field Engineer&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Environmental scientist with significant experience in the non-profit sector and university laboratory setting. Skilled in data analysis, water quality management, stable isotope analysis, Matlab, R, and SQL. Doctor of Philosophy (PhD) focused in Earth Science from Stanford University.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 </description>
     </item>
