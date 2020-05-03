@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Statistical Consultant"
   company = "Statistical Cross-disciplinary Collaboration & Consulting Lab (SC3L)"
-  company_url = ""
+  company_url = "https://statistics.unl.edu/help-desk-form"
   location = "Nebraska"
   date_start = "2019-01-01"
   date_end = ""

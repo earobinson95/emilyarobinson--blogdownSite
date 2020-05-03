@@ -24,10 +24,7 @@ interests:
 name: Emily A. Robinson
 role: PhD Student, Statistical Consultant
 organizations:
-- name: Statistics Department, University of Nebraska - Lincoln
-  url: "https://statistics.unl.edu/about-statistics"
-- name: Statistical Cross-disciplinary Collaboration and Consulting Lab (SC3L)
-  url: "https://statistics.unl.edu/help-desk-form"
+- name: University of Nebraska - Lincoln
 social:
 - icon: cv
   icon_pack: ai
