@@ -55,12 +55,16 @@ class:primary
 - Results & Conclusions
 
 ---
-class: inverse
+class:primary
+## Motivation
 
-background-image: url(images/unl.gif)
-background-size: 100%
-background-position: 50% 50%
+.center[
+<img class="mw" src="images/lifecycle.png" width="100%" alt="moth flight ggridge plot"/>
+]
 
+.bottom[
+<font size="3">Image Source: Pioneer. (2019, May 9). Western Bean Cutworm. Retrieved from https://www.pioneer.com/us/agronomy/western_bean_cutworm_cropfocus.html</font>
+]
 ---
 class:primary
 ## Data Visualization
@@ -137,31 +141,9 @@ t(fitmeasures(lgcFit)[c("chisq", "df", "pvalue","cfi","rmsea","srmr")]) %>%
 class:primary
 ## Final Path Diagram
 
-```{r pathDiagram, message=FALSE, warning=FALSE, fig.width = 8, fig.height = 5}
-semPaths(lgcFit, 
-                  as.expression = c("nodes"), 
-                  "std",
-                  sizeMan = 8, 
-                  sizeInt = 2, 
-                  sizeLat = 10, 
-                  label.prop = 0.9, 
-                  curve = 0.5, 
-                  curvePivot = FALSE, 
-                  bg = "white", 
-                  intercepts = F, 
-                  borders = TRUE, 
-                  label.norm = "O", 
-                  edge.label.cex = 1, 
-                  nDigits = 2, 
-                  layout = "tree",
-                  fade = T, 
-                  residuals = F,
-                  exoCov = F,
-                  combineGroups = T,
-                  reorder = FALSE,
-                  title = F
-)
-```
+.center[
+<img class="mw" src="images/mothflightPathDiagram.png" width="100%" alt="Path Diagram plot"/>
+]
 
 
 ---
@@ -208,26 +190,9 @@ lvariances %>%
 class:primary
 ## Year to Year Change
 
-```{r preds, echo = F, eval = T, message = F, warning = F, fig.height = 4.5, fig.width = 8}
-preds <- predict(lgcFit)
-# predDat <- as.data.frame(cbind(Site = as.character(modDat$Site), Year = modDat$Year, preds))
-predDat <- as.data.frame(cbind(Site = as.character(modDat$Site), Year = modDat$Year, rbind(preds$Aurora, preds$ClayCenter, preds$Concord, preds$NorthPlatte)))
-numericCols <- c("Start", "Length")
-predDat[,numericCols] <- lapply(predDat[,numericCols], as.numeric)
-predDat$Year <- as.numeric(as.character(predDat$Year))
-
-predDat %>%
-  pivot_longer(cols = c("Start", "Length"), names_to = "LV", values_to = "Pred") %>%
-  mutate(LV = factor(LV, levels = c("Start", "Length"))) %>%
-ggplot(aes(x = Year, y = Pred)) +
-  geom_point() +
-  geom_smooth(method = "loess", span = 0.3, se = T) +
-  # geom_line() +
-  facet_grid(LV~Site) +
-  theme_bw() +
-  scale_x_continuous(limits = c(1980, 2020), breaks = seq(1980, 2020, 5)) 
-  #+ scale_y_continuous(limits = c(-50, 150), breaks = seq(-50, 150, 50))
-```
+.center[
+<img class="mw" src="images/year-over-year-change.png" width="100%" alt="Yearly Changes"/>
+]
 
 ---
 class:primary
@@ -248,6 +213,12 @@ count: false
 ## References & Acknowledgements
 
 - Da Luz, P. M. C., Swoboda Bhattarai, K. A., Montezano, D. G., Hunt, T. E., Write, R. J., & Peterson, J. A. (n.d.).
+- Pioneer. (2019, May 9). Western Bean Cutworm. Retrieved from https://www.pioneer.com/us/agronomy/western_bean_cutworm_cropfocus.html
 - Scouting and Treating Western Bean Cutworm. (2019, July 22). Retrieved from https://cropwatch.unl.edu/scouting-and-treating-western-bean-cutworm
 - Western Bean Cutworm. (n.d.). Retrieved from https://cropwatch.unl.edu/tags/western-bean-cutworm
 - Thank you to all of the people involved in collecting data in different locations over a period of more than thirty years.
+
+---
+class: inverse
+count: false
+## Questions?
