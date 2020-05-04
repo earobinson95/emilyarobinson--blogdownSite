@@ -9,18 +9,18 @@ address:
 all_day: false
 authors: [Emily Robinson]
 date: "2020-05-05T14:30:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date_end:
 event: SEM Final Presentations
-event_url: https://example.org
+event_url: 
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**FS System**](https://www.fssystem.com/Products-Services/Resource-Center/Resource-Detail/western-bean-cutworm)'
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: 
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: 
 location: Source Themes HQ
 math: true
 projects:
