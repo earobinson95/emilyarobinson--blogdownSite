@@ -27,7 +27,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 # slides: example
-summary: An example talk using Academic's Markdown slides feature.
+summary: My final Structural Equation Modeling project using Latent Growth Curves to explore the flight patterns of Western Bean Cutworms in Nebraska.
 tags: []
 title: Western Bean Cutworm Flight Pattern
 url_code: ""
