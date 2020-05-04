@@ -1,19 +1,16 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: abstract goes here.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: 
+  country: 
+  postcode: 
+  region: 
+  street: 
 all_day: false
-authors: []
-date: "2030-06-01T13:00:00Z"
+authors: [Emily Robinson]
+date: "2020-05-05T14:30:00Z"
 date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
+event: SEM Final Presentations
 event_url: https://example.org
 featured: false
 image:
@@ -23,30 +20,18 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: 
 location: Source Themes HQ
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+# slides: example
 summary: An example talk using Academic's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Western Bean Cutworm Flight Pattern
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://www.emilyarobinson.com/files/slides/WesternBeanCutwrom-SEMfinal/index.html#1"
 url_video: ""
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
