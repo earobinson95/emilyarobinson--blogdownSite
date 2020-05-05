@@ -127,8 +127,7 @@ class:primary
 lgcFit <- cfa(lgcMod, 
               data = wbcDat_LGC, 
               std.lv = F,
-              group = "Site",
-              check.gradient = FALSE)
+              group = "Site")
 ```
 
 ```{r fitMeasures, eval=T, echo=F, message=FALSE, warning=FALSE}
