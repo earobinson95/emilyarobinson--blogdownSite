@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="author" content="Emily Robinson" />
     <meta name="author" content="Katharine Swoboda Bhattarai" />
-    <meta name="date" content="2020-04-30" />
+    <meta name="date" content="2020-05-05" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/metropolis.css" rel="stylesheet" />
   </head>
@@ -17,7 +17,7 @@ class: center, middle, inverse, title-slide
 ## Structural Equation Modeling (EDSP 971)
 ### Emily Robinson
 ### Katharine Swoboda Bhattarai
-### April 30, 2020
+### May 5, 2020
 
 ---
 
@@ -42,12 +42,16 @@ class:primary
 - Results &amp; Conclusions
 
 ---
-class: inverse
+class:primary
+## Motivation
 
-background-image: url(images/unl.gif)
-background-size: 100%
-background-position: 50% 50%
+.center[
+&lt;img class="mw" src="images/lifecycle.png" width="100%" alt="moth flight ggridge plot"/&gt;
+]
 
+.bottom[
+&lt;font size="3"&gt;Image Source: Pioneer. (2019, May 9). Western Bean Cutworm. Retrieved from https://www.pioneer.com/us/agronomy/western_bean_cutworm_cropfocus.html&lt;/font&gt;
+]
 ---
 class:primary
 ## Data Visualization
@@ -112,8 +116,7 @@ class:primary
 lgcFit &lt;- cfa(lgcMod, 
               data = wbcDat_LGC, 
               std.lv = F,
-              group = "Site",
-              check.gradient = FALSE)
+              group = "Site")
 ```
 
 &lt;table&gt;
@@ -143,7 +146,9 @@ lgcFit &lt;- cfa(lgcMod,
 class:primary
 ## Final Path Diagram
 
-![](index_files/figure-html/pathDiagram-1.png)&lt;!-- --&gt;
+.center[
+&lt;img class="mw" src="images/mothflightPathDiagram.png" width="100%" alt="Path Diagram plot"/&gt;
+]
 
 
 ---
@@ -336,7 +341,9 @@ class:primary
 class:primary
 ## Year to Year Change
 
-![](index_files/figure-html/preds-1.png)&lt;!-- --&gt;
+.center[
+&lt;img class="mw" src="images/year-over-year-change.png" width="100%" alt="Yearly Changes"/&gt;
+]
 
 ---
 class:primary
@@ -351,15 +358,20 @@ class:primary
 - The total moths for that flight are negatively associated with the start date and positively associated to the length of the flight.
 - The peak moths are positively associated with the start date and for some locations, negatively associated with the length.
 - According to farmers, the flight in North Platte has been lasting later in the season, based on the time series plot, we can see that the start date has been later and the length of the flight has been increasing over the most recent years.
+
 ---
 class:primary
-count: false
 ## References &amp; Acknowledgements
 
 - Da Luz, P. M. C., Swoboda Bhattarai, K. A., Montezano, D. G., Hunt, T. E., Write, R. J., &amp; Peterson, J. A. (n.d.).
+- Pioneer. (2019, May 9). Western Bean Cutworm. Retrieved from https://www.pioneer.com/us/agronomy/western_bean_cutworm_cropfocus.html
 - Scouting and Treating Western Bean Cutworm. (2019, July 22). Retrieved from https://cropwatch.unl.edu/scouting-and-treating-western-bean-cutworm
 - Western Bean Cutworm. (n.d.). Retrieved from https://cropwatch.unl.edu/tags/western-bean-cutworm
 - Thank you to all of the people involved in collecting data in different locations over a period of more than thirty years.
+
+---
+class: inverse
+## Questions?
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
