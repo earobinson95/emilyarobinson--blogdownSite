@@ -32,6 +32,6 @@ tags: []
 title: Perception of exponential data displayed on a log scale
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.emilyarobinson.com/files/slides/UNL-PhD-Seminar-Perception-of-Log-Scales-10_07_2020/index.html#1"
+url_slides: "https://srvanderplas.github.io/Perception-of-Log-Scales/presentations/eskridge-PhD-seminars/oct_8_2020/index.html#1"
 url_video: ""
 ---
