@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas E Hunt | Emily A. Robinson</title>
+    <link>/authors/thomas-e-hunt/</link>
+      <atom:link href="/authors/thomas-e-hunt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas E Hunt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thomas E Hunt</title>
+      <link>/authors/thomas-e-hunt/</link>
+    </image>
+    
+    <item>
+      <title>Effects of intraguild interactions on Anticarsia gemmatalis and Chrysodeixis includens larval fitness and behavior in soybean</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

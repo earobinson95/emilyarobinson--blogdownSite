@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edson LL Baldin | Emily A. Robinson</title>
+    <link>/authors/edson-ll-baldin/</link>
+      <atom:link href="/authors/edson-ll-baldin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edson LL Baldin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Edson LL Baldin</title>
+      <link>/authors/edson-ll-baldin/</link>
+    </image>
+    
+    <item>
+      <title>Effects of intraguild interactions on Anticarsia gemmatalis and Chrysodeixis includens larval fitness and behavior in soybean</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consulting &amp; Collaboration | Emily A. Robinson</title>
+    <link>/tags/consulting-collaboration/</link>
+      <atom:link href="/tags/consulting-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Consulting &amp; Collaboration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Consulting &amp; Collaboration</title>
+      <link>/tags/consulting-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Effects of intraguild interactions on Anticarsia gemmatalis and Chrysodeixis includens larval fitness and behavior in soybean</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western Bean Cutworm Flight Pattern</title>
+      <link>/talk/westernbeancutworm-semfinal/</link>
+      <pubDate>Tue, 05 May 2020 14:30:00 +0000</pubDate>
+      <guid>/talk/westernbeancutworm-semfinal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

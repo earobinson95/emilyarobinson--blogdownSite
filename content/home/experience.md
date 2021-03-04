@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   location = "Nebraska"
   date_start = "2019-01-01"
   date_end = ""
-  description = """During my time working as a statistical consultant at the SC3L at UNL, I have worked with more than 30 clients one-on-one to design experiments, conduct power analyses, summarize data, and conduct statistical analyses."""
+  description = """During my time working as a statistical consultant, I worked with more than 65 clients one-on-one to design experiments, conduct power analyses, summarize data, and conduct statistical analyses. I have collaborated on graduate thesis as well as manuscripts for peer reviewed journal publication."""
   
 [[experience]]
-  title = "Graduate Teaching Assistant"
+  title = "Graduate Teaching Assistant (Instructor of Record)"
   company = "University of Nebraska - Lincoln"
   company_url = ""
   location = "Nebraska"

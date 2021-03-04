@@ -1,49 +1,37 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: BACKGROUND Crop pest management requires an understanding of the complex interactions among species that potentially impact crop yield. In soybean, the velvetbean caterpillar, Anticarsia gemmatalis (Hübner), and the soybean looper, Chrysodeixis includens (Walker), are described as key pests, sharing the same feeding guild. We assessed the intraguild interactions of these species under laboratory conditions. Fitness cost study was conducted to examine the influence of competition on insect development. A video tracking system was used to evaluate behavioral parameters during larval interactions in scenarios with and without food availability. RESULTS In the fitness cost assay, pupal weight was not significantly affected, regardless of sex. However, larval and pupal survival were influenced by the competition, especially in third versus fifth instar scenarios. We detected 40% cannibalism and 46.67% predation when A. gemmatalis and C. includens third instars competed with A. gemmatalis fifth instar, respectively. Distance moved, distance between larvae, body contact (food available) and frequency in food of C. includens larvae were negatively affected by interactions. Anticarsia gemmatalis larvae showed highly active behavior, moving twice or more the distance compared to C. includens larvae, and A. gemmatalis spent more time in body contact with food. CONCLUSION Ours results suggest that A. gemmatalis has a competitive advantage over C. includens. This study provides important information regarding lepidopteran behavior in soybean. We recommended that additional studies are necessary to understand the effects of interactions, especially in field conditions.
 authors:
+- Sabrina Ongaratto
+- Edson LL Baldin
+- Thomas E Hunt
+- Debora G Montezano
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
+- Maria C dos Santos
+date: "2021-02-23T00:00:00Z"
+doi: "10.1002/ps.6330"
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Pest Management Science*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2021-02-23T00:00:00Z"
+slides:
+summary: Crop pest management requires an understanding of the complex interactions among species that potentially impact crop yield. In soybean, the velvetbean caterpillar, Anticarsia gemmatalis (Hübner), and the soybean looper, Chrysodeixis includens (Walker), are described as key pests, sharing the same feeding guild. We assessed the intraguild interactions of these species under laboratory conditions. Fitness cost study was conducted to examine the influence of competition on insect development. A video tracking system was used to evaluate behavioral parameters during larval interactions in scenarios with and without food availability.
 tags:
-- Source Themes
-title: An example journal article
+- Entomology
+- Consulting & Collaboration
+title: Effects of intraguild interactions on Anticarsia gemmatalis and Chrysodeixis includens larval fitness and behavior in soybean
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ps.6330
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

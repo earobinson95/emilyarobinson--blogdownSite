@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debora G Montezano | Emily A. Robinson</title>
+    <link>/authors/debora-g-montezano/</link>
+      <atom:link href="/authors/debora-g-montezano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debora G Montezano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Debora G Montezano</title>
+      <link>/authors/debora-g-montezano/</link>
+    </image>
+    
+    <item>
+      <title>Effects of intraguild interactions on Anticarsia gemmatalis and Chrysodeixis includens larval fitness and behavior in soybean</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
