@@ -33,7 +33,7 @@ subtitle = ""
   description = "Rookie" 
   
 [[feature]]
-  icon = "chart"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualization"
   description = "R Shiny + ggplot + plotly"
