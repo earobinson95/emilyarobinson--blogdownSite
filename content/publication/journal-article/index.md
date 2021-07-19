@@ -21,7 +21,7 @@ publication_types:
 - "1"
 publishDate: "2021-02-23T00:00:00Z"
 slides:
-summary: Crop pest management requires an understanding of the complex interactions among species that potentially impact crop yield. In soybean, the velvetbean caterpillar, Anticarsia gemmatalis (Hübner), and the soybean looper, Chrysodeixis includens (Walker), are described as key pests, sharing the same feeding guild. We assessed the intraguild interactions of these species under laboratory conditions. Fitness cost study was conducted to examine the influence of competition on insect development. A video tracking system was used to evaluate behavioral parameters during larval interactions in scenarios with and without food availability.
+summary: 
 tags:
 - Entomology
 - Consulting & Collaboration

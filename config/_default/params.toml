@@ -198,7 +198,7 @@ plugins_js  = []
   #   4: Citation (publications only)
   post_view = 1
   publication_view = 1
-  talk_view = 1
+  talk_view = 2
 
 ############################
 ## Comments
