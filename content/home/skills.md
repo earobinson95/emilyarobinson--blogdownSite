@@ -17,37 +17,49 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "70%"
+  name = "R Programming"
+  description = "Tidyverse + R markdown + Xaringan"
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "SAS"
-  description = "70%"  
+  name = "SAS Programming"
+  description = "GLIMMIX/NLMIXED + MCMC/BGLIMM"  
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "20%" 
+  description = "Rookie" 
+  
+[[feature]]
+  icon = "chart"
+  icon_pack = "fas"
+  name = "Data Visualization"
+  description = "R Shiny + ggplot + plotly"
   
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
-  name = "JavaScript (d3.js)"
-  description = "30%"
+  name = "JavaScript"
+  description = "Rookie + Learning D3.js"
   
 [[feature]]
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-  description = "60%"
+  description = ""
+  
+[[feature]]
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Math & Stats"
+  description = "Generalized Linear Mixed Models + Experimental Design + Supervised/Unsupervised Learning"
   
 [[feature]]
   icon = "handshake"
   icon_pack = "fas"
   name = "Consulting & Collaboration"
-  description = "70%"
+  description = "design experiments + power analyses + data analysis + interpretation"
 
 +++

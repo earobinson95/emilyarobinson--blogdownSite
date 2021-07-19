@@ -15,10 +15,10 @@ education:
     year: 2013 - 2017
 email: "emily.robinson@huskers.unl.edu"
 interests:
+- Data Visualization and Graphics
 - Experimental Design
-- Graphics
-- Statistical Communication
 - Statistics Education
+- Statistical Communication
 name: Emily A. Robinson
 role: Ph.D. Student, Statistical Consultant
 organizations:
