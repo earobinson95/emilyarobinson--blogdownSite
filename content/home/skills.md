@@ -34,7 +34,7 @@ subtitle = ""
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
+  icon_pack = "fa"
   name = "Data Visualization"
   description = "R Shiny + ggplot + plotly"
   
