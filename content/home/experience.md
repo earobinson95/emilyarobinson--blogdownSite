@@ -27,17 +27,18 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  During my time working as a statistical consultant, I worked with more than 75 clients one-on-one to design experiments, conduct power analyses, summarize data, and conduct statistical analyses. I have collaborated on graduate thesis as well as manuscripts for peer reviewed journal publication.
+75+ clients, 100+ projects, 4 publications
+Design experiments, conduct power analyses, summarize data, and conduct statistical analyses,
+interpreted results, provided written research reports.
+Collaborate on graduate theses and manuscripts for peer reviewed journal publication.
 
 **STAT 825: Principles of Statistical Consulting, 3 credit hours**
 + *SC3L Assistant (Spring 2020, Spring 2021)*
-+ Oversee student collaborations at the SC3L desk, sit in meetings, support students through
-analysis, provide constructive feedback on consulting reports.
++ Assist in leading hands-on activities such as role playing, report writing, and creating data visualizations in the introductory consulting course once a week. Invite students to shadow client meetings and mentor students in leading their own client meetings
   
 **STAT 930, Advanced Consulting, 2 credit hours**
 + *SC3L Assistant (Fall 2019, Fall 2020)*
-+ Assist in leading class once a week, share past projects and experience, lead hands-on activities
-and discussion, arrange for students to shadow SC3L meetings.
++ Mentor students on leading meetings, running analysis, and writing reports.
   """
   
 [[experience]]
@@ -48,15 +49,19 @@ and discussion, arrange for students to shadow SC3L meetings.
   date_start = "2017-08-01"
   date_end = "2019-05-01"
   description = """
+Average instructor rating: 3.75/4.
+
 **STAT 218: Introduction to Statistics, 3 credit hours**
 + *Instructor of Record (Spring 2018, Fall 2018), Co-Instructor (Fall 2017)*
-+ Non-calculus based introductory statistics course
++ Simulation based introductory statistics course.
 + Text used: "Introduction to Statistical Investigations," by Tintle et al.
++ Created and led lectures, wrote exams and homework assignments, assigned grades, held office hours.
 
 **STAT 380: Statistics & Applications, 3 credit hours**
 + *Instructor of Record (Spring 2019)*
-+ Calculus based introductory statistics course
++ Calculus based introductory statistics course.
 + Text used: ”Probability and Statistics for Engineers and Scientists,” 9th Edition by Walpole et al.
++ Created and led lectures, wrote exams and homework assignments, assigned grades, held office hours.
   """
 
 [[experience]]
@@ -77,8 +82,9 @@ and discussion, arrange for students to shadow SC3L meetings.
   date_end = "2017-05-01"
   description = """
   
-Lead daily class lessons, developed lesson plans, exams, and supplemental materials for learning.
-Aligned standards and met the 10 Standards of Effective Practice. Classes taught: HS Geometry, College Algebra Prep, Alternative Mathematics
+Courses taught: HS Geometry, College Algebra Prep, Alternative Mathematics
+
+Lead daily class lessons, developed lesson plans, exams, and supplemental materials for learning. Aligned standards and met the 10 Standards of Effective Practice.
   """
   
 [[experience]]

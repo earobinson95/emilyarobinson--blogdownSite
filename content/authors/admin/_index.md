@@ -15,7 +15,7 @@ education:
     year: 2013 - 2017
 email: "emily.robinson@huskers.unl.edu"
 interests:
-- Data Visualization and Graphics
+- Graphics
 - Experimental Design
 - Statistics Education
 - Statistical Communication
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently pursuing a Ph.D. in Statistics at University of Nebraska - Lincoln. As a graduate student, I have experience teaching calculus based introductory statistics and consulting / collaborating with researchers from departments across the university. My research interests involve experimental design and perception and decision making using graphics. I am passionate about communicating statistics whether I am teaching and mentoring students or collaborating on a research project with domain experts.
+I am currently pursuing a Ph.D. in Statistics at University of Nebraska - Lincoln. I have 2.5+ years statistical consulting experience working with more than 75 clients, 3+ years teaching experience with introductory statistics and HS geometry, and 3 summers (1 year) applying statistics for different industry functions. My research interests involve experimental design and perception and decision making using graphics. I am skilled in creating data visualizations in order to effectively communicate critical information and am currently learning D3.js. I am passionate about communicating statistics whether I am teaching or collaborating on a project.
