@@ -35,7 +35,8 @@ Collaborate on graduate theses and manuscripts for peer reviewed journal publica
 **STAT 825: Principles of Statistical Consulting, 3 credit hours**
 + *SC3L Assistant (Spring 2020, Spring 2021)*
 + Assist in leading hands-on activities such as role playing, report writing, and creating data visualizations in the introductory consulting course once a week. Invite students to shadow client meetings and mentor students in leading their own client meetings
-  
+
+
 **STAT 930, Advanced Consulting, 2 credit hours**
 + *SC3L Assistant (Fall 2019, Fall 2020)*
 + Mentor students on leading meetings, running analysis, and writing reports.
@@ -56,6 +57,7 @@ Average instructor rating: 3.75/4.
 + Simulation based introductory statistics course.
 + Text used: "Introduction to Statistical Investigations," by Tintle et al.
 + Created and led lectures, wrote exams and homework assignments, assigned grades, held office hours.
+
 
 **STAT 380: Statistics & Applications, 3 credit hours**
 + *Instructor of Record (Spring 2019)*
@@ -82,7 +84,7 @@ Average instructor rating: 3.75/4.
   date_end = "2017-05-01"
   description = """
   
-Courses taught: HS Geometry, College Algebra Prep, Alternative Mathematics
+**Courses taught:** HS Geometry, College Algebra Prep, Alternative Mathematics
 
 Lead daily class lessons, developed lesson plans, exams, and supplemental materials for learning. Aligned standards and met the 10 Standards of Effective Practice.
   """

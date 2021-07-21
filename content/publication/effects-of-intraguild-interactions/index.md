@@ -18,7 +18,7 @@ projects: []
 publication: '*Pest Management Science*'
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2021-02-23T00:00:00Z"
 slides:
 summary: 
