@@ -26,7 +26,7 @@ organizations:
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/EmilyARobinson-cv.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'
