@@ -25,6 +25,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "SAS Programming"
   description = "GLIMMIX/NLMIXED + MCMC/BGLIMM"  
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = ""
 
 [[feature]]
   icon = "python"
@@ -33,22 +39,17 @@ subtitle = ""
   description = "Rookie" 
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fa"
-  name = "Data Visualization"
-  description = "R Shiny + ggplot + plotly"
-  
-[[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
   description = "Rookie + Learning D3.js"
   
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "GitHub"
-  description = ""
+  icon = "chart-line"
+  icon_pack = "fa"
+  name = "Data Visualization"
+  description = "RShiny + ggplot + plotly"
+  
   
 [[feature]]
   icon = "calculator"
@@ -60,6 +61,6 @@ subtitle = ""
   icon = "handshake"
   icon_pack = "fas"
   name = "Consulting & Collaboration"
-  description = "design experiments + power analyses + data analysis + interpretation"
+  description = "Design Experiments + Power Analyses + Data Analysis + Interpretation"
 
 +++
