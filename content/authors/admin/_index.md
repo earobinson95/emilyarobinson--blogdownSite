@@ -6,7 +6,7 @@ education:
   courses:
   - course: Ph.D. in Statistics
     institution: University of Nebraska - Lincoln
-    year: 2019 - Expected 2022
+    year: 2019 - Expected August 2022
   - course: M.S. in Statistics
     institution: University of Nebraska - Lincoln
     year: 2017 - 2019
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. candidate in Statistics at University of Nebraska - Lincoln with an expected graduation of August 2022. I have 2.5+ years statistical consulting experience working with more than 75 clients, 3+ years teaching experience with introductory statistics and HS geometry, and 3 summers (1 year) applying statistics for different industry functions. My research interests involve experimental design and perception and decision making using graphics. I am skilled in creating data visualizations in order to effectively communicate critical information and am currently learning D3.js. I am passionate about communicating statistics whether I am teaching or collaborating on a project. To learn more about me, keep exploring my site or reach out directly.
+I am currently a Ph.D. candidate in statistics at the University of Nebraska - Lincoln with an expected graduation date of August 2022. I have 2.5+ years statistical consulting experience working with more than 75 clients, 3+ years teaching experience with introductory statistics and HS geometry, and 3 summers (1 year) applying statistics for different industry functions. My research interests involve experimental design and perception and decision making using graphics. I am skilled in creating data visualizations in order to effectively communicate critical information and am currently learning D3.js. I am passionate about communicating statistics whether I am teaching or collaborating on a project. To learn more about me, keep exploring my site or reach out directly.
