@@ -32,7 +32,13 @@ projects:
 - internal-project
 publishDate: "2021-04-05T16:00:00Z"
 # slides: example
-summary: Log scales are often used to display data over several orders of magnitude within one graph. Three graphical experimental tasks were conducted to evaluate the impact displaying data on the log scale has on human perception of exponentially increasing trends compared to displaying data on the linear scale. The results provide guidelines for readers to actively choose which of many possible graphics to draw in order to ensure their charts are effective at communicating the intended result.
+summary: "
+
+
+*View live speed session slides* [*here.*](https://earobinson95.github.io/presentations/Conferences/2021-JSM/2021-JSM-live-speed-session/index.html#1)
+
+
+Log scales are often used to display data over several orders of magnitude within one graph. Three graphical experimental tasks were conducted to evaluate the impact displaying data on the log scale has on human perception of exponentially increasing trends compared to displaying data on the linear scale. The results provide guidelines for readers to actively choose which of many possible graphics to draw in order to ensure their charts are effective at communicating the intended result."
 tags: 
   - Log Scale
   - Graphics
