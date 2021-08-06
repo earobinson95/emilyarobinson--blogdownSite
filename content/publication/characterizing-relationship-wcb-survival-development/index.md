@@ -27,7 +27,7 @@ tags:
 title: Characterizing the Relationship Between Western Corn Rootworm (Coleoptera - Chrysomelidae) Larval Survival on Cry3Bb1-Expressing Corn and Larval Development Metrics
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://academic.oup.com/jee/advance-article/doi/10.1093/jee/toab151/6330605?guestAccessKey=0c4996d7-97b6-4b4a-8657-0a988f8515b4"
 url_poster: ""
 url_project: ""
 url_slides: ""

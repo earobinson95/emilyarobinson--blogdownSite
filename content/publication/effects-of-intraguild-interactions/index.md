@@ -28,7 +28,7 @@ tags:
 title: Effects of intraguild interactions on Anticarsia gemmatalis and Chrysodeixis includens larval fitness and behavior in soybean
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ps.6330"
 url_poster: ""
 url_project: ""
 url_slides: ""
