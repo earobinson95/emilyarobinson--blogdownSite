@@ -19,7 +19,7 @@ event: JSM 2021
 event_url: 
 featured: true
 image:
-  caption: 'Image credit: [**Financial Times**](https://ig.ft.com/coronavirus-chart/?areas=eur)'
+  caption: 'Image credit: **xkcd**'
   focal_point: Right
 links:
 # - icon: twitter
