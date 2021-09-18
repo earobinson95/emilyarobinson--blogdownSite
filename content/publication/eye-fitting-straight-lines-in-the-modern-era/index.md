@@ -16,7 +16,7 @@ publication: 'Target journal *Journal of Computational and Graphical Statistics*
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-11-01T00:00:00Z"
+publishDate: "2021-9-17T00:00:00Z"
 slides:
 summary: 
 tags:

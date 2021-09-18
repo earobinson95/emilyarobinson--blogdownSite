@@ -15,10 +15,10 @@ education:
     year: 2013 - 2017
 email: "emily.robinson@huskers.unl.edu"
 interests:
-- Data Visualization
+- Graphics
 - Experimental Design
+- Statistical Consulting
 - Statistics Education
-- Statistical Communication
 name: Emily A. Robinson
 role: Ph.D. Candidate, Statistical Consultant
 organizations:
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Ph.D. candidate in statistics at the University of Nebraska - Lincoln with an expected graduation date of August 2022. I have 2.5+ years statistical consulting experience working with more than 75 clients, 3+ years teaching experience with introductory statistics and HS geometry, and 3 summers (1 year) applying statistics for different industry functions. My research interests involve experimental design and perception and decision making using graphics. I am skilled in creating data visualizations in order to effectively communicate critical information and am currently learning D3.js. I am passionate about communicating statistics whether I am teaching or collaborating on a project. To learn more about me, keep exploring my site or reach out directly.
+I am currently a Ph.D. candidate in statistics at the University of Nebraska - Lincoln with an expected graduation date of August 2022. I have 2.5+ years statistical consulting experience working with more than 75 clients, 3+ years teaching experience with introductory statistics and HS geometry, and 3 summers applying statistics for different industry functions. My research interests involve graphical testing, experimental design, and statistical consulting. I am skilled in creating data visualizations in order to effectively communicate critical information and am currently learning D3.js. I am passionate about communicating statistics whether I am teaching or collaborating on a project. To learn more about me, keep exploring my site or reach out directly.
