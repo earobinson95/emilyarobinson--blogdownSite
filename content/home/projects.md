@@ -2,8 +2,8 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 35  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -26,16 +26,24 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Nonlinear"
-    tag = "Nonlinear"
-  
+    name = "Graphics"
+    tag = "Graphics"
+    
   [[content.filter_button]]
-    name = "Data Visualization"
-    tag = "DataViz"
+    name = "Perception"
+    tag = "Perception"
+
+  [[content.filter_button]]
+    name = "r2d3"
+    tag = "r2d3"
+    
+  [[content.filter_button]]
+    name = "Consulting"
+    tag = "Consulting"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
