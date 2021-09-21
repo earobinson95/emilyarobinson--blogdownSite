@@ -22,10 +22,8 @@ publishDate: "2021-09-17T00:00:00Z"
 slides:
 summary: 
 tags:
-  - Monarch
-  - Agrochemical
-  - Mixture
-  - Toxicology
+  - Entomology
+  - Consulting & Collaboration
 title: "Cardenolide, Potassium, and Pyrethroid Insecticide Combinations Reduce Growth and Survival of Monarch Butterfly Caterpillars (Lepidoptera: Nymphalidae)"
 url_code: ""
 url_dataset: ""

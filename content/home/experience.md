@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-75+ clients, 100+ projects, 4 publications
+75+ clients, 100+ projects, 7 publications
 
-Work one-on-one with cleints to design experiments, conduct power analyses, summarize data, and conduct statistical analyses, interpret results, provide written research reports. Collaborate on graduate theses and manuscripts for peer reviewed journal publication.
+Work one-on-one with clients to design experiments, conduct power analyses, summarize data, and conduct statistical analyses, interpret results, provide written research reports. Collaborate on graduate theses and manuscripts for peer reviewed journal publication.
 
 **STAT 825: Principles of Statistical Consulting, 3 credit hours**
 + *SC3L Assistant (Spring 2020, Spring 2021)*

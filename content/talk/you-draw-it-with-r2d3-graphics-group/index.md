@@ -34,6 +34,7 @@ tags:
   - Graphics
   - Perception
   - Experimental Design
+  - D3.js
   - r2d3
 title: You Draw It with r2d3
 url_code: "https://github.com/srvanderplas/Perception-of-Log-Scales/blob/master/presentations/you-draw-it-with-r2d3-graphicsgroup04082021/index.rmd"
