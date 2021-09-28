@@ -28,7 +28,7 @@ projects:
 - internal-project
 publishDate: "2021-04-05T16:00:00Z"
 # slides: example
-summary: "In my research, I established ‘You Draw It’ as a method for graphical testing by adapting the New York Times feature. Participants were directed to an RShiny application link and shown points following a linear trend and asked to draw a line through the data points using their computer mouse; task plots were generated using the r2d3 package in R statistical software. Results from my study were consistent with those found in previous studies; when shown points following a linear trend, participants tended to fit the slope of the first principal component over the slope of the least-squares regression line. This trend was most prominent when shown data simulated with larger variances. The reproducibility of these results serves as evidence of the reliability of the you draw it method."
+summary: "In my research, I established ‘You Draw It’ as a method for graphical testing by adapting the New York Times feature."
 tags: 
   - Graphics
   - Regression
