@@ -33,8 +33,12 @@ The .gif dislpays an example of a 'You Draw It' task plot. Participants are prom
 **Test out the development applet [here](https://emily-robinson.shinyapps.io/you-draw-it-test-app/).**
 
 Future work:
-+ Implement the 'You Draw It' method in non-linear settings.
-+ Evaluate human ability to extrapolate data from trends.
-+ Use the tool to understand beliefs of real data such as climate change trends. 
-+ Develop an R package designed for easy implementation of ‘You Draw It’ task plots.
+
+:pencil2: Implement the 'You Draw It' method in non-linear settings.
+
+:chart_with_upwards_trend: Evaluate human ability to extrapolate data from trends.
+
+:cloud: Use the tool to understand beliefs of real data such as climate change trends. 
+
+:package: Develop an R package designed for easy implementation of ‘You Draw It’ task plots.
 

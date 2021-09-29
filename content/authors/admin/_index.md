@@ -23,6 +23,7 @@ name: Emily A. Robinson
 role: Ph.D. Candidate, Statistical Consultant
 organizations:
 - name: University of Nebraska - Lincoln
+  url: "https://statistics.unl.edu/"
 social:
 - icon: cv
   icon_pack: ai
@@ -48,14 +49,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Emily, a Ph.D. candidate and statistical consultant in the Department of Statistics at the University of Nebraska - Lincoln.
+Hi there :wave: I'm Emily! 
 
-I have:
-+ 2.5+ years of statistical consulting experience working with over 75 clients
-+ 3+ years of teaching experience with introductory statistics and HS geometry
-+ 3 summers applying statistics for different industry functions.
+I am Ph.D. candidate and statistical consultant in the Department of Statistics at the University of Nebraska - Lincoln. My current research, in collaboration with my advisers, [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration. 
 
-My current research at the University of Nebraska - Lincoln in collaboration with my advisers, [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate the effectiveness of data visualizations in communicating the intended result. I am skilled in creating data visualizations in order to effectively communicate critical information and am currently learning D3.js. I am passionate about teaching, mentoring, and collaboration. 
+Outside of being a graduate student, I enjoy outdoor recreation :runner: :bicyclist: :ski:, gardening :sunflower: :herb: , and reading :books: [(check out *Reese's Book Club Picks*)](https://hello-sunshine.com/post/reeses-book-club-all-picks)!
 
-Outside of being a graduate student, I enjoy outdoor recreation (in all seasons), gardening, and reading [(check out *Reese's Book Club Picks*)](https://hello-sunshine.com/post/reeses-book-club-all-picks)!
-
+:smile: Pronouns: she/her
