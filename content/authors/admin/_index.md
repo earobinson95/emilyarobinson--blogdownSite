@@ -15,7 +15,7 @@ education:
     year: 2013 - 2017
 email: "emily.robinson@huskers.unl.edu"
 interests:
-- Graphics
+- Data Visualization
 - Experimental Design
 - Statistical Consulting
 - Statistics Education
@@ -51,7 +51,7 @@ user_groups:
 
 Hi there :wave: I'm Emily! 
 
-I am Ph.D. candidate and statistical consultant in the Department of Statistics at the University of Nebraska - Lincoln. My current research, in collaboration with my advisers, [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration. 
+I am a Ph.D. candidate and statistical consultant in the Department of Statistics at the University of Nebraska - Lincoln. My current research, in collaboration with my advisers, [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration. 
 
 Outside of being a graduate student, I enjoy outdoor recreation :runner: :bicyclist: :ski:, gardening :sunflower: :herb: , and reading :books: [(check out *Reese's Book Club Picks*)](https://hello-sunshine.com/post/reeses-book-club-all-picks)!
 
