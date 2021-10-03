@@ -43,5 +43,5 @@ title: "Pandemic Dilemmas: Human perception of exponentially increasing data dis
 url_code: "https://github.com/earobinson95/presentations/blob/master/Conferences/2021-WSDS/2021-WSDS-recording/index.rmd"
 url_pdf: ""
 url_slides: "https://earobinson95.github.io/presentations/Conferences/2021-WSDS/2021-WSDS-recording/index.html#1"
-url_video: ""
+url_video: "https://app.vidgrid.com/view/lanFCzYKbnIM#"
 ---
