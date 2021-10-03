@@ -32,10 +32,11 @@ publishDate: "2021-04-05T16:00:00Z"
 # slides: example
 summary: "We developed and conducted a series of three graphical tests implemented through RShiny designed to evaluate the impact our choice of scale (log/linear) has on human perception of exponentially increasing trends."
 tags: 
-  - Log Scale
   - Graphics
+  - Log Scales
   - Perception
-  - Experimental Design
+  - Visual Inference
+  - You Draw It
 title: "Pandemic Dilemmas: Human perception of exponentially increasing data displayed on a log scale evaluated through experimental graphics tasks"
 url_code: "https://github.com/earobinson95/presentations/blob/master/Conferences/2021-WSDS/2021-WSDS-recording/index.rmd"
 url_pdf: ""
