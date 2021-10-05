@@ -32,17 +32,17 @@ date_format = "Jan 2006"
 Work one-on-one with clients to design experiments, conduct power analyses, summarize data, and conduct statistical analyses, interpret results, provide written research reports. Collaborate on graduate theses and manuscripts for peer reviewed journal publication.
 
 **STAT 825: Principles of Statistical Consulting, 3 credit hours**
-+ *SC3L Assistant (Spring 2020, Spring 2021)*
-+ Assist in leading hands-on activities such as role playing, report writing, and creating data visualizations in the introductory consulting course once a week. Invite students to shadow client meetings and mentor students in leading their own client meetings
++ *SC3L Assistant (Fall 2019, Fall 2020, Fall 2021)*
++ Assist in leading hands-on activities such as role playing, report writing, and creating data visualizations in the introductory consulting course once a week. Invite students to shadow client meetings and mentor students in leading their own client meetings.
 
 
 **STAT 930, Advanced Consulting, 2 credit hours**
-+ *SC3L Assistant (Fall 2019, Fall 2020)*
++ *SC3L Assistant (Spring 2020, Spring 2021)*
 + Mentor students on leading meetings, running analysis, and writing reports.
   """
   
 [[experience]]
-  title = "Graduate Teaching Assistant (Instructor of Record)"
+  title = "Graduate Teaching, Instructor of Record"
   company = "University of Nebraska - Lincoln"
   company_url = ""
   location = "Nebraska"

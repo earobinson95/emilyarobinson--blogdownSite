@@ -3,7 +3,7 @@ abstract: The western corn rootworm, Diabrotica virgifera virgifera LeConte (Col
 authors:
 - Jordan D Reinders
 - David S Wangila
-- admin
+- '**Emily A. Robinson**'
 - B Wade French
 - Lance J Meinke
 date: "2021-07-23T00:00:00Z"
