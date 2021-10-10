@@ -13,7 +13,7 @@ address:
   street: 
 all_day: false
 authors: [Emily A. Robinson]
-date: "2021-10-07T1:45:00Z"
+date: "2021-10-07T13:45:00Z"
 date_end:
 event: Women in Statistics and Data Science 2021
 event_url: 
