@@ -38,6 +38,6 @@ tags:
 title: "Can ‘You Draw It’?"
 url_code: ""
 url_pdf: ""
-url_slides: "https://earobinson95.github.io/presentations/Job-Talks/2021-assistant-professor/index.html#p1"
+url_slides: "https://earobinson95.github.io/presentations/Job-Talks/2021-assistant-professor/index.html#1"
 url_video: ""
 ---
