@@ -9,7 +9,7 @@ address:
   street: 
 all_day: false
 authors: [Emily A. Robinson]
-date: "2021-10-14T16:00:00Z"
+date: "2021-10-05T16:00:00Z"
 date_end:
 event: ISU Graphics Group
 event_url: 
