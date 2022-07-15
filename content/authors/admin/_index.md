@@ -6,21 +6,21 @@ education:
   courses:
   - course: Ph.D. in Statistics
     institution: University of Nebraska - Lincoln
-    year: 2019 - Expected August 2022
+    year: 2019 - 2022
   - course: M.S. in Statistics
     institution: University of Nebraska - Lincoln
     year: 2017 - 2019
   - course: B.S. in Statistics and Secondary Mathematics Education
     institution: Winona State University
     year: 2013 - 2017
-email: "emily.robinson@huskers.unl.edu"
+email: "erobin17@calpoly.edu"
 interests:
 - Data Visualization
 - Experimental Design
 - Statistical Consulting
 - Statistics Education
 name: Emily A. Robinson
-role: Ph.D. Candidate, Statistical Consultant
+role: Ph.D. Statistics
 organizations:
 - name: University of Nebraska - Lincoln
   url: "https://statistics.unl.edu/"
@@ -51,8 +51,12 @@ user_groups:
 
 Hi there :wave: I'm Emily! 
 
-I am a Ph.D. candidate and statistical consultant in the Department of Statistics at the University of Nebraska - Lincoln. My current research, in collaboration with my advisers, [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration. 
+I recently finished my Ph.D. in statistics from the University of Nebraska - Lincoln. My current research, in collaboration with [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration.
 
-Outside of being a graduate student, I enjoy outdoor recreation :runner: :bicyclist: :ski:, gardening :sunflower: :herb: , and reading :books: [(check out *Reese's Book Club Picks*)](https://hello-sunshine.com/post/reeses-book-club-all-picks)!
+
+I am excited to be joining the faculty in the [Department of Statistics at CalPoly](https://statistics.calpoly.edu/) in San Luis Obispo, CA in fall 2022!
+
+
+Outside of work, I enjoy outdoor recreation :runner: :bicyclist: :ski:, gardening :sunflower: :herb: , and reading :books: [(check out *Reese's Book Club Picks*)](https://hello-sunshine.com/post/reeses-book-club-all-picks)!
 
 :smile: Pronouns: she/her
