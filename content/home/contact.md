@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "I would love to connect. Please contact me at: emily.robinson@huskers.unl.edu."
+subtitle = "I would love to connect. Please contact me at: erobin17@calpoly.edu."
 
 # Automatically link email and phone?
 autolink = true
