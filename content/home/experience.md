@@ -19,15 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Assistant Professor of Statistics"
+  company = "California Polytechnic State University"
+  company_url = "https://statistics.calpoly.edu/"
+  location = "San Luis Obispo, CA"
+  date_start = "2022-09-12"
+  date_end = ""
+  description = """
+  
+**Courses taught**
+
++ STAT 218: Applied Statistics for Life Sciences, 4 credit hours (F2022)
+  """
+
+[[experience]]
   company = "Statistical Cross-disciplinary Collaboration & Consulting Lab (SC3L)"
   title = "Statistical Consultant"
   company_url = "https://statistics.unl.edu/help-desk-form"
   location = "University of Nebraska - Lincoln"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2022-05-01"
   description = """
   
-75+ clients, 100+ projects, 7 publications
+75+ clients, 100+ projects, 12 publications
 
 Work one-on-one with clients to design experiments, conduct power analyses, summarize data, and conduct statistical analyses, interpret results, provide written research reports. Collaborate on graduate theses and manuscripts for peer reviewed journal publication.
 
