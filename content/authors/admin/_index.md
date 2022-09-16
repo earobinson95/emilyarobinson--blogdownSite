@@ -1,7 +1,7 @@
 ---
 authors:
 - Emily A. Robinson
-bio: Ph.D. Candidate at University of Nebraska - Lincoln & Statistical Consultant at the SC3L Desk
+bio: Assistant Professor at California Polytechnic State University - San Luis Obispo
 education:
   courses:
   - course: Ph.D. in Statistics
@@ -20,10 +20,10 @@ interests:
 - Statistical Consulting
 - Statistics Education
 name: Emily A. Robinson
-role: Ph.D. Statistics
+role: Assistant Professor of Statistics
 organizations:
-- name: University of Nebraska - Lincoln
-  url: "https://statistics.unl.edu/"
+- name: California Polytechnic State University - San Luis Obispo
+  url: "https://statistics.calpoly.edu/"
 social:
 - icon: cv
   icon_pack: ai
@@ -51,11 +51,7 @@ user_groups:
 
 Hi there :wave: I'm Emily! 
 
-I recently finished my Ph.D. in statistics from the University of Nebraska - Lincoln. My current research, in collaboration with [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration.
-
-
-I am excited to be joining the faculty in the [Department of Statistics at CalPoly](https://statistics.calpoly.edu/) in San Luis Obispo, CA in fall 2022!
-
+I am an Assistant Professor of Statistics at Cal Poly located on the central coast in San Luis Obispo, CA. My current research, in collaboration with [Dr. Susan VanderPlas](https://srvanderplas.netlify.app/) and Dr. Reka Howard, focuses on the use of graphical tests to evaluate data visualization design choices in order to effectively communicate the intended result. I am currently learning how to create interactive visualizations using D3.js. I am passionate about teaching, mentoring, and collaboration.
 
 Outside of work, I enjoy outdoor recreation :runner: :bicyclist: :ski:, gardening :sunflower: :herb: , and reading :books: [(check out *Reese's Book Club Picks*)](https://hello-sunshine.com/post/reeses-book-club-all-picks)!
 
